@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "Vaza cat",
+    "mongoUri": "mongodb+srv://master:1234567890@cluster0.vwfo3.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http//localhost:5000"
+}
